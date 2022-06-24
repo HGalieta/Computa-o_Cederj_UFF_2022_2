@@ -1,0 +1,16 @@
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\bin\Debug\net5.0\Notas_Cederj.exe
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\bin\Debug\net5.0\Notas_Cederj.deps.json
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\bin\Debug\net5.0\Notas_Cederj.runtimeconfig.json
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\bin\Debug\net5.0\Notas_Cederj.runtimeconfig.dev.json
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\bin\Debug\net5.0\Notas_Cederj.dll
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\bin\Debug\net5.0\Notas_Cederj.pdb
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\obj\Debug\net5.0\Notas_Cederj.csproj.AssemblyReference.cache
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\obj\Debug\net5.0\Notas_Cederj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\obj\Debug\net5.0\Notas_Cederj.AssemblyInfoInputs.cache
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\obj\Debug\net5.0\Notas_Cederj.AssemblyInfo.cs
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\obj\Debug\net5.0\Notas_Cederj.csproj.CoreCompileInputs.cache
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\obj\Debug\net5.0\Notas_Cederj.dll
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\obj\Debug\net5.0\refint\Notas_Cederj.dll
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\obj\Debug\net5.0\Notas_Cederj.pdb
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\obj\Debug\net5.0\Notas_Cederj.genruntimeconfig.cache
+C:\Users\hgali\source\repos\Notas_Cederj\Notas_Cederj\obj\Debug\net5.0\ref\Notas_Cederj.dll
